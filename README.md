@@ -1,1 +1,1 @@
-# konverter_waktu
+# Konversi Waktu Sederhana: Detik, Menit, dan Jam
